@@ -9,13 +9,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=47FFB3&lines=Welcome+to+ICO-Project+!!&center=true&size=21" />
   </a>
 </h2>
+** Claim Blocks-eater tokens if you are our Nfts holder 👏👏... 
+or You can purchase our Tokens too..
+ 1 Blocks eater token Costs 0.001 ether only /-
 
-Claim out token if you are our Nfts holder : 
 ---------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------
 ![](https://github.com/Haripandey21/ico-project/blob/main/my-app/ico-images/Screenshot%20(71).png)
-
-
 
 ----------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------------------------
